@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# build directory typically used with cmake
+build
+
+# vim swap files
+*.swn
+*.swp
+*.swo
