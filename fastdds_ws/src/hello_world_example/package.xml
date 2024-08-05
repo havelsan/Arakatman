@@ -1,0 +1,12 @@
+<package format="2">
+  <name>helloworld_package</name>
+  <version>0.0.1</version>
+  <description>helloworld_package</description>
+  
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>MIT</license>
+  
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>ament_cmake</exec_depend>
+</package>
